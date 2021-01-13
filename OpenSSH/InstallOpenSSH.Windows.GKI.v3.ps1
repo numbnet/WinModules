@@ -45,5 +45,5 @@ New-NetFirewallRule -Name sshd -DisplayName 'OpenSSH Server (sshd)' -Enabled Tru
 
 # Первоначальное использование SSH
 #### Установив сервер OpenSSH в Windows, вы можете быстро протестировать его с помощью PowerShell с любого устройства Windows с установленным клиентом SSH. В PowerShell введите следующую команду:
-
+ 
 #Ssh username@servername
